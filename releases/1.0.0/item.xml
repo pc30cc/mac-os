@@ -1,0 +1,9 @@
+    <item>
+      <title>Webyar 1.0.0</title>
+      <pubDate>Thu, 24 Sep 2026 15:33:26 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>نخستین نسخهٔ Webyar برای مک — First release of Webyar for Mac.</description>
+      <enclosure url="https://raw.githubusercontent.com/pc30cc/mac-os/main/releases/1.0.0/Webyar-1.0.0.zip" type="application/octet-stream" sparkle:edSignature="1Ma1szgGsZLCJXdB5Ca2CE53hB1t2Nvi8pJ+FcgxUQrJYgEMzP2upgJB0cIv0BVy3fphZW0WVf20XdYg8089Bw==" length="28426958" />
+    </item>
