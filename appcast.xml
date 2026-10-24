@@ -4,6 +4,15 @@
     <title>Webyar for Mac</title>
     <link>https://raw.githubusercontent.com/pc30cc/mac-os/main/appcast.xml</link>
     <item>
+      <title>Webyar 2.8.2440</title>
+      <pubDate>Sat, 24 Oct 2026 09:59:00 +0000</pubDate>
+      <sparkle:version>2440</sparkle:version>
+      <sparkle:shortVersionString>2.8.2440</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Webyar for Mac 2.8.2440</description>
+      <enclosure url="https://raw.githubusercontent.com/pc30cc/mac-os/main/releases/2.8.2440/Webyar-2.8.2440.zip" type="application/octet-stream" sparkle:edSignature="VtmUvPCxbPEKfHdEOHejhodYhgmD7D1BC/lVcJjDLZ38VRbIIm6gGLDAtQdupayhSxpVhbqC8Xmuf+Hh4JymDw==" length="29108624" />
+    </item>
+    <item>
       <title>Webyar 2.8.2433</title>
       <pubDate>Thu, 22 Oct 2026 11:18:34 +0000</pubDate>
       <sparkle:version>2433</sparkle:version>
