@@ -1,0 +1,9 @@
+    <item>
+      <title>Webyar 2.8.2503</title>
+      <pubDate>Sun, 08 Nov 2026 22:40:16 +0000</pubDate>
+      <sparkle:version>2503</sparkle:version>
+      <sparkle:shortVersionString>2.8.2503</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Webyar for Mac 2.8.2503</description>
+      <enclosure url="https://raw.githubusercontent.com/pc30cc/mac-os/main/releases/2.8.2503/Webyar-2.8.2503.zip" type="application/octet-stream" sparkle:edSignature="zEbiAbzmJQKmUCocLbIw1wJQyc8/9QZVEAr+DuJKQZ/rWPQiE81a7pxt7xJMyVkcM98BNv5PEPpw0XmvIlHxBA==" length="29840410" />
+    </item>
